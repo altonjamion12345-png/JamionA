@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <!-- choose which one runs.
+         Change to Problem1, Problem2, Problem3 or Problem4 -->
+    <StartupObject>Problem1</StartupObject>
+  </PropertyGroup>
+
+</Project>
